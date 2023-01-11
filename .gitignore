@@ -1,0 +1,20 @@
+# VS Code
+.vscode/
+
+# course files
+
+/localusers/err
+/localusers/id
+localusers/lines
+localusers/manager.txt
+localusers/password
+localusers/uid
+
+
+# My Code
+localusers/cp_luser.sh
+
+# DotEnv configuration
+.env
+
+
